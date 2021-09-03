@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PokemonReactiveTask</string>
+    <string name="error_in_connection_check_phone_network">Error in Connection, check phone Network</string>
+</resources>
